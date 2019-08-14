@@ -20,6 +20,6 @@ function destructivelyRemoveFirstKitten(name) {
   return kittens
 }
 
-
+function appendKitten(name)
 
 // Add your functions and code here
