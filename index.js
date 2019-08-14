@@ -24,4 +24,8 @@ function appendKitten(name) {
   return [...kitten, name];
 }
 
+function prrependKitten(name) {
+  return [...name, kitten]
+}
+ 
 // Add your functions and code here
