@@ -11,7 +11,7 @@ function destructivelyPrependKitten(name) {
 }
 
 function destructivlyRemoveLastKitten(name) {
-    kittens.pop["Milo", "Otis", "Garfi"]
+    kittens.pop["Milo", "Otis", "Garfield"]
     return kittens
 }
 
